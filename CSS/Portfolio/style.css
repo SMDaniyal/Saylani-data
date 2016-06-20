@@ -1,0 +1,78 @@
+body{
+    background-image: url(./images/1.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin: 0;
+   
+}
+.header a{
+    text-decoration: none;
+    color: white
+}
+.header{
+    text-align: right;
+    font-size: 14px;
+    margin-top: 25px;
+    margin-right: 30px
+    
+}
+.header a:hover{
+    text-decoration: underline;
+    color: white
+}
+.cover h1{
+    font-size: 45px;
+    text-align: center;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+
+}
+.cover h2{
+    font-family: 'Lobster', cursive;
+    font-size: 20px;
+    text-align: center;
+    color: wheat
+}
+.cover h3{
+    text-align: center;
+    color: white;
+    font-size: 18px;
+    font-family: 'Pacifico', cursive;
+    color: white;
+    
+    
+}
+.images{
+    border-radius: 50%;
+    border: 4px white solid;
+    height: 150px;
+    margin-left: 600px;
+    
+}
+.intro{
+    background-color: white;
+    text-align: center;
+    color: black;
+    font-size: 20px;
+    height: 700px;
+    margin-left: 200px;
+    margin-right: 200px;
+    line-height: 30px
+   
+}
+.intro p::first-letter{
+    font-size: 70px
+}
+.intro h2{
+    font-size: 80px;
+    color: #393939
+}
+.container{
+    background-color: white
+}
+.img-books{
+    height: 70px;
+    width: 70px
+}
+
