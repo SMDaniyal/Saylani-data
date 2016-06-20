@@ -22,7 +22,7 @@ body{
     color: white
 }
 .cover h1{
-    font-size: 45px;
+    font-size: 52px;
     text-align: center;
     color: white;
     font-family: 'Montserrat', sans-serif;
@@ -30,24 +30,28 @@ body{
 }
 .cover h2{
     font-family: 'Lobster', cursive;
-    font-size: 20px;
+    font-size: 24px;
     text-align: center;
     color: wheat
 }
 .cover h3{
     text-align: center;
     color: white;
-    font-size: 18px;
+    font-size: 22px;
     font-family: 'Pacifico', cursive;
     color: white;
     
     
 }
+.cover a{
+    text-decoration: none;
+    color: white
+}
 .images{
     border-radius: 50%;
     border: 4px white solid;
-    height: 150px;
-    margin-left: 600px;
+    height: 200px;
+    margin-left: 570px;
     
 }
 .intro{
@@ -55,7 +59,7 @@ body{
     text-align: center;
     color: black;
     font-size: 20px;
-    height: 700px;
+    height: 900px;
     margin-left: 200px;
     margin-right: 200px;
     line-height: 30px
@@ -75,4 +79,36 @@ body{
     height: 70px;
     width: 70px
 }
-
+.symbol{
+    height: 80px;
+    width: 50px
+}
+.footer{
+    background-color: white;
+    text-align: center   
+}
+.first-sec {
+    width: 45.45454545454545%;
+    float: left;
+    margin-right: 9.090909090909%;
+    
+    
+}
+.first-sec b {
+    color: black
+}
+.second-sec{
+       margin-right: 0%;
+}
+.bold:hover{
+    text-decoration: underline;
+    color: turquoise
+}
+.ending {
+    font-size: 15px;
+    color: gray
+}
+.last-links a{
+    text-decoration: underline;
+    color: grey
+}
