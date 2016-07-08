@@ -1,4 +1,4 @@
-body{
+.body{
     background-image: url(./images/1.jpg);
     background-position: center;
     background-repeat: no-repeat;
@@ -21,6 +21,7 @@ body{
     text-decoration: underline;
     color: white
 }
+
 .cover h1{
     font-size: 52px;
     text-align: center;
@@ -51,7 +52,12 @@ body{
     border-radius: 50%;
     border: 4px white solid;
     height: 200px;
+<<<<<<< HEAD
+    
+    
+=======
     margin-left: 570px;
+>>>>>>> e91f37ebc61e091009d829136ec9ab0654de1c32
     
 }
 .intro{
@@ -110,5 +116,79 @@ body{
 }
 .last-links a{
     text-decoration: underline;
+<<<<<<< HEAD
+    color: grey;
+}
+                                            {<home-html end>
+                                            <--Work-html start-->;}
+.alif{
+    background-color:white !important 
+}
+.head a{
+    text-decoration: none;
+    color: black
+}
+.head{
+    text-align: right;
+    font-size: 14px;
+    margin-top: 25px;
+    margin-right: 30px
+    
+}
+.head a:hover{
+    text-decoration: underline;
+    color: gray
+}
+
+
+
+.my-work{
+   background-color: white;
+   margin-left: 200px;
+   margin-right: 200px;
+   
+   
+   
+}                
+.my-work h2{
+    text-align: center;
+    font-size: 80px;
+    font-family: 'Lobster', cursive;
+    opacity: 2
+    
+    
+}           
+.my-work p{
+    text-align: center;
+    font-size: 25px
+}    
+.first{
+    display: inline-block;
+    margin: 1em;
+    
+   
+}   
+.second{
+    display: inline-block;
+    margin: 1em;
+    
+
+}   
+.third{
+    display: inline-block;
+    margin: 1em;
+
+}  
+.ss{
+    height: auto;
+    width: auto;
+    
+} 
+.snapshots{
+    margin-left: 0px
+}
+
+=======
     color: grey
 }
+>>>>>>> e91f37ebc61e091009d829136ec9ab0654de1c32

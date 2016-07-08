@@ -1,0 +1,135 @@
+.body {
+    margin: 0px;
+    background-image: url(./images/2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #f5f5f5;
+    background-attachment: fixed
+    
+    
+}
+
+.header{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 70px;
+    background-color: rgba(0 ,0,0, 0.3);
+    height: 180px;
+    width: 1000px;
+}
+.logo-position{
+    float: left;
+    width: 150px;
+    margin-top: 40px;
+    margin-left: 30px
+}
+.logo{
+    height: 100px;
+    width: 120px;
+    
+    
+}
+.name-position{
+    float: left;
+    width: 40px;
+    width: auto;
+    
+}
+.name-position h1{
+    font-size: 42px;  
+    font-family: 'Montserrat', sans-serif;   
+    color: white
+}
+.navigation{
+    text-align: center;
+    background-color: #174F7C;
+    border: 3px solid #21669D;
+    border-radius: 5px;
+    margin-top: 50px;
+    margin-left: 200px;
+    margin-right: 200px;
+    line-height: 50px;
+    font-family: 
+    
+}
+.navigation a:hover{
+    color: black;
+    background-color: #174F7C;
+}
+.navigation a{
+    text-decoration: none;
+    font-size: 18px;
+    color: white;
+    font-family: 'Josefin Slab', serif;
+}
+#detail {
+   color: white;
+}
+.mission{
+    background-color: white;
+    color: black;
+    border: 1px solid black;
+    text-align: center;
+    margin-left: 200px;
+    margin-right: 200px
+}
+.our-mission{
+    background-color: #21669D ;
+    border-bottom: 5px solid #174F7C  ;
+     text-align: center;
+    margin-left: 200px;
+    margin-right: 200px;
+    padding-top: 5px
+}
+.mission p{
+    font-family: 'Josefin Sans', sans-serif;
+}
+.footer{
+    background-color: #21669D ;;
+    margin-left: 200px;
+    margin-right: 200px;
+    text-align: center;
+    border: 5px solid #174F7C;
+    border-radius: 5px;
+    color: white;
+    
+}
+.student-login{
+    background-color: rgba(0, 0, 0, 0.3);
+    text-align: center;
+    color: white;
+    display: inline-block;
+    width: 500px;
+    height: 300px
+    
+    
+}
+.form   {
+    background-color: #21669D ;
+    border: 5px solid #174F7C;
+    border-radius: 5px
+}
+.button{
+    background-color: #21669D;
+    color: white;
+    padding: 5px;
+    font-size: 20px;
+    border-style: none;
+    border-radius: 5px
+    
+}
+.button:hover{
+    color: black;
+    background-color: #174F7C;
+}
+.call img{
+    height: 20px;
+    width: 20px
+}
+.call a{
+    text-decoration: none;
+    color: #174F7C
+}
+
+
+
