@@ -52,12 +52,8 @@
     border-radius: 50%;
     border: 4px white solid;
     height: 200px;
-<<<<<<< HEAD
     
     
-=======
-    margin-left: 570px;
->>>>>>> e91f37ebc61e091009d829136ec9ab0654de1c32
     
 }
 .intro{
@@ -116,7 +112,6 @@
 }
 .last-links a{
     text-decoration: underline;
-<<<<<<< HEAD
     color: grey;
 }
                                             {<home-html end>
@@ -188,7 +183,3 @@
     margin-left: 0px
 }
 
-=======
-    color: grey
-}
->>>>>>> e91f37ebc61e091009d829136ec9ab0654de1c32
