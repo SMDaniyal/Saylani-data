@@ -1,0 +1,278 @@
+body{
+    background-image: url("./images/3.jpg");
+    font-family: 'Montserrat', sans-serif;
+    background-size: cover
+}
+.main-container{
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1000px;
+    background-color: white;
+    border: 2px solid lightblue;
+    
+
+}
+.logo{
+    height: 60px;
+    width: 50px;
+    position: absolute;
+    top: 45px;
+    left: 190px
+}
+h1{
+    display: inline;
+    color: white;
+    margin-left: 70px
+}
+.nav{
+
+    padding: 20px;
+    background-color: rgba(0, 0, 0, 0.5);
+
+}
+.header{
+    height: 300px;
+    background-image: url("./images/1.jpg");
+    background-size: cover;
+    border-bottom: 3px solid #3EA28A
+}
+.nav ul{
+    display: inline-block;
+    margin: 0px
+}
+.nav li{
+    list-style: none;
+    float: left;
+    margin-left: 30px
+}
+.nav li:hover{
+    color: orangered
+}
+.nav a{
+    text-decoration: none;
+    color: #ffffff
+}.box1,.box2,.box3,.box4{
+    width: 500px;
+    height: 200px;
+    float: left;
+    text-align: center;
+}
+.box1,.box2,.box3,.box4 h3{
+    color: #ffffff
+}
+.box1{
+    background-color: rgb(89, 192, 167);
+    border-top: 13px solid rgb(62, 162, 138);
+}
+.box2{
+    background-color: #82AF75;
+    border-top: 13px solid #6A975C
+}
+.box3{
+    background-color: #FFC738;
+    border-top: 13px solid #ECB529
+}
+.box4{
+    background-color: #E19C36;
+    border-top: 13px solid #C6811A;
+}
+.gallery {
+    height: 230px;
+    background-color: #F37B45;
+    border-top: 13px solid #DA6937;
+    text-align: center;
+    display: block;
+    margin-top: 425px;
+    padding: 20px
+   
+}
+.gallery div{
+    height: 150px;
+    width: 150px;
+    background-color: #FFC738;
+    float: left;
+    margin-left: 110px;
+    margin-top: 5px
+}
+.pic1 img{
+    height: 200px;
+    width: 200px;
+    border: 5px solid #ECB529
+}
+.footer {
+    background-color: #2C343C;
+    height: 430px;
+}
+.footer-contant{
+    display: inline-block;
+    margin-top: 30px;
+    margin-left: 150px
+    
+}
+.footer h3,h4{
+    color: white;
+    text-align: center;
+}
+.footer input{
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+}
+.footer-contant div{
+    float: left;
+    width: 300px;
+    text-align: justify;
+    margin-right: 60px;
+    padding: 5px;
+
+}
+.footer p{
+    color: #6B7276;
+    font-family: 'Nunito', sans-serif;
+}
+.button{
+    background-color: #EF4F47;
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 0px;
+    width: 120px
+}
+.button:hover{
+    background-color: #59C0A7
+}
+.copy-rights{
+    margin-left: 100px ;
+    margin-top: 30px;
+    margin-right: 100px;
+    background-color: #1F262C;
+    padding: 10px;
+    text-align: center;  
+}
+                               /**tour section started**/
+.tours{
+    background-color: white;
+    height: 1300px;
+    padding: 10px
+}
+
+.tours img{
+    height: 200px;
+    width: 300px;
+}
+.tours div{
+    display: inline-block;
+    float: left;
+    margin-left: 20px;
+    margin-top: 50px;
+}
+.our-tours{
+    color: #616A6F;
+    display: block;
+    background-color: #59C0A7;
+    border-top: 13px solid #3EA28A;
+    border-bottom: 13px solid #3EA28A;
+    text-align: center;
+    padding: 5px
+}
+div.price{
+    background-color: #59C0A7;
+    margin: 0px;
+    display: block;
+    float: none;
+    padding: 10px;
+    border: 5px solid #3EA28A;
+    color: white
+}
+div.amount{
+    background-color: #FFC738;
+    margin: 0px;
+    display: block;
+    float: none;
+    padding: 10px;
+    border: 5px solid #ECB529;
+    color: white
+}
+div.travel{
+    background-color: #82AF75;
+    margin: 0px;
+    display: block;
+    float: none;
+    padding: 10px;
+    border: 5px solid #6A975C;
+    color: white
+}
+{contact us}
+.contact{
+    background-color: white;
+    height: 700px    
+}
+.contact div{
+    float: left;
+    display: inline-block;
+    background-color: white;
+    
+}
+.portion1{
+    width: 50%;
+}
+.portion2{
+    width: 50%
+}
+div.portion1 h2,div.portion2 h2{
+    color: #545E63;
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 30px;
+    margin-left: 70px
+}
+.portion2 input{
+    padding: 10px;
+    margin-top: 10px;
+    margin-left: 70px;
+    width: 250px;
+    border: 1px solid #E4E4E4
+}
+.portion2 textarea{
+    padding: 10px;
+    margin-top: 10px;
+    margin-left: 70px;
+    width: 300px;
+    border: 1px solid #E4E4E4
+}
+#two{
+    margin-left: 70px
+}
+#map{
+    margin-left: 70px;
+    height: 300px
+}.portion1 p{
+    margin-left: 70px;
+    color: #535A60;
+    text-decoration: none;
+}
+.portion1 a{
+    text-decoration: none;
+    color: #535A10;
+}
+                                 /**about section started**/
+.about{
+    background-color: white;
+    height: 500px;
+    font-family: 'Dosis', sans-serif;
+    margin-top: 30px;
+    margin-left: 50px;
+    text-align: center
+}
+.about h2{
+    font-size: 35px;
+    color: #545E63
+}
+.about p{
+    text-align: center;
+    font-size: 20px
+}                                 
+.about img{
+    vertical-align: top;
+    border: 3px solid #ECB529
+}
