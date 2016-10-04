@@ -1,0 +1,47 @@
+
+div{
+    margin-top: 100px;
+    border: 45px solid #060726;
+    border-radius: 15px;
+    box-shadow: 10px 8px 2px gray;
+    height: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 550px
+}
+p{
+    color: #A5B38F;
+    font-weight: bolder;
+    margin-left: 15px;
+    padding: 5px
+}
+
+.clip{
+    height: 80px;
+    width: 350px;
+    position: absolute;
+    left: 37%;
+    top: 16%
+}
+.logo{  
+    height: 80px;
+    width: 120px;
+    margin-left: 37%;
+    margin-top: 30px
+}
+h1{
+    font-size: 30px;
+    text-align: center;
+    color: #394B73;
+    margin-bottom: 70px 
+}
+span{
+    color: #394B73
+}
+.info{
+    height: 100px;
+    width: 200px;
+    margin-right: 10px;
+    float: right;
+    margin-top: 20px
+}
