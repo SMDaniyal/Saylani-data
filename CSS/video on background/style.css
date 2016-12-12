@@ -1,0 +1,23 @@
+body{
+      background: url("./1.MP4");
+      background-size: cover;
+      background-repeat: no-repeat;
+      
+
+}
+#vd{
+      position: fixed;
+      z-index: -1000;
+      width: 100%;
+      height: 100%;
+      overflow: hidden;
+      top: 0px;
+      left: 0px;
+}
+video{
+      position: absolute;
+      min-width: 100%;
+      min-height: 100%;
+      top: 0px;
+      left: 0px
+}

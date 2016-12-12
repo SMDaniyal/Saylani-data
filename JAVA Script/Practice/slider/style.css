@@ -1,0 +1,46 @@
+body{
+    background-image: url("./wallpapers/wallpaper.jpg");
+    background-size: cover
+}
+.slider{
+    width: 1000px ;
+    height: 500px ;
+    margin: 50px auto;
+    position: relative;
+    border: 10px solid black;
+    transition: 2s;
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif
+}
+img{
+    width:  1000px ;
+    height: 500px ;
+    position: absolute;
+        
+}
+.left{
+    height: 500px;
+    width: 80px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    
+}
+.left img{
+    height: 80px;
+    width: 80px;
+    top: 40%
+}
+.right{
+    height: 500px;
+    width: 80px;
+    position: absolute;
+    right: 0px;
+    top: 0px
+}
+.right img{
+    height: 80px;
+    width: 80px;
+    top: 40%
+}
